@@ -22,7 +22,7 @@ This project was developed with the following technologies:
 - [React][reactjs]
 - [React Native][rn]
 - [Expo][expo]
-- [Insomnia][insomnia.rest]
+- [Insomnia][insomnia]
 
 ## 📋 Layout
 
@@ -46,3 +46,4 @@ Made with ❤ by Victor Hofstetter :wave: [Get in touch!](https://www.linkedin.c
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[insomnia]: https://insomnia.rest
