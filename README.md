@@ -9,7 +9,7 @@
 Ecoleta is an application for residue collection, for recycling purposes.
 
 <h1 align="center">
-    <img alt="Example" title="Eggsmaple" src=".github/exp.svg" width="500px" />
+    <img alt="Eggsmaple" title="Eggsmaple" src=".github/exp.svg" width="500px" />
 </h1>
 
 
@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 The layout to this application is available on [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
-## :memo: License
+## 📜 License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/VicHofs/NLW-01/LICENSE) for details.
 
