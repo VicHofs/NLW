@@ -47,6 +47,9 @@ The layout to this application is available on [Figma](https://www.figma.com/fil
 
 This project is under the MIT license. See the [LICENSE](https://github.com/VicHofs/NLW-01/LICENSE) for details.
 
+
+
+
 🚀Lastly, I'd like to thank Diego Fernandes and the Rocketseat team for providing this excellent program.🚀
 
 Made with ❤ by Victor Hofstetter :wave: [Get in touch!](https://www.linkedin.com/in/victor-hofstetter/)
