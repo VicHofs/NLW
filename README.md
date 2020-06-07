@@ -1,5 +1,7 @@
 # NLW
+<div align="center">
 <img align="center" alt=" " src="https://github.com/VicHofs/NLW-01/blob/master/.github/logo.svg">
+</div>
 <h1 align="center">
 	Next Level Week #01 da Rocketseat 🚀 — Ecoleta ♻
 </h1>
