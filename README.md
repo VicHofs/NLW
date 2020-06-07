@@ -1,8 +1,20 @@
 # NLW
-<h1 align="center" styl={{ flexDirection: 'column', flex: 1 }}>
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+<h1 align="center" style={{ flexDirection: 'column', flex: 1 }}>
     Next Level Week #01 da Rocketseat 🚀 — Ecoleta ♻
 </h1>
+<p align="center">
+	
+  <a href="https://www.linkedin.com/in/victor-hofstetter/">
+    <img alt="Made by VicHofs" src="https://img.shields.io/badge/made%20by-VicHofs-%2304D361">
+  </a>
+
+  <a href="https://github.com/VicHofs/NLW-01/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VicHofs/NLW-01">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+<p align="center">
 
 ## 📝 Project
 
