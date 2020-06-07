@@ -32,7 +32,7 @@ To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28
 This project is under the MIT license. See the [LICENSE](https://github.com/VicHofs/NLW-01/LICENSE) for details.
 
 
-Made with ❤ by Victor Hofstetter :wave: [Get in touch!](https://www.linkedin.com/in/victorhofstetter/)
+Made with ❤ by Victor Hofstetter :wave: [Get in touch!](https://www.linkedin.com/in/victor-hofstetter/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
