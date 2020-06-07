@@ -1,5 +1,5 @@
 # NLW
-<h1 align="center">
+<h1 align="center" styl={{ flexDirection: 'column', flex: 1 }}>
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
     Next Level Week #01 da Rocketseat 🚀 — Ecoleta ♻
 </h1>
@@ -9,7 +9,7 @@
 Ecoleta is an application for residue collection, for recycling purposes.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+    <img alt="Example" title="Eggsmaple" src=".github/exp.svg" width="500px" />
 </h1>
 
 
